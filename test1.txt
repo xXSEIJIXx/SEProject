@@ -5,3 +5,5 @@ HELLO
 NEW
 
 WORLD
+
+おはよう世界
